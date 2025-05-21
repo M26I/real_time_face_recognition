@@ -1,3 +1,5 @@
+# © 2025 M26I - For educational/portfolio use only
+
 import cv2
 import face_recognition
 import pickle

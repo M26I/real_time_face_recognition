@@ -1,3 +1,4 @@
+# © 2025 M26I - For educational/portfolio use only
 import face_recognition
 import cv2
 import os

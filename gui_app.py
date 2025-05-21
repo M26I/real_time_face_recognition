@@ -1,3 +1,4 @@
+# © 2025 M26I - For educational/portfolio use only
 import tkinter as tk
 from tkinter import messagebox
 import cv2
